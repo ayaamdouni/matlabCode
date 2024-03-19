@@ -25,6 +25,6 @@ git clone https://github.com/ayaamdouni/matlabCode
 
 To see the results of each function, simply execute the corresponding `.m` file in MATLAB. Each file contains the code necessary to demonstrate the functionality of the associated function. You'll see the results directly within the MATLAB environment.
 
-## Contributions
+## Contributing
 
 Contributions to this repository are highly encouraged! If you have any improvements, bug fixes, or new functions to add, feel free to fork this repository, make your changes, and submit a pull request.
